@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+psycopg2-binary
+llama-parse
+openai
+pydantic
+python-multipart
+jsonschema
+openai
